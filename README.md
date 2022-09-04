@@ -1,11 +1,17 @@
-# JogoNFT-web3
-Um jogo de NFT ambientando nos contos lovercraftianos, onde o explorador poderá assumir um personagem e desafiar o próprio Ctulhu!
+## Running React on Repl.it
 
+[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-# Este jogo foi desenvolvido com o apoio da excelente equipe da web3dev - web3dev.com.br - Caso esteja estudando web3 e não saiba por onde começar, recomendo fortemente que busque o conteúdo desta equipe.
+[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
-## O projeto é desenvolvido com solidity, js e React.
+Using the two in conjunction is one of the fastest ways to build a web app.
 
-## Para uso no Vscode, renomear as extenções dos arquivos de jsx para js.
+### Getting Started
+- Hit run
+- Edit [App.jsx](#src/App.jsx) and watch it live update!
 
-No mais, fico à disposição... Espero que acompanhe este repositório e veja a evolução dele :)
+By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+
+### Typescript
+
+Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
