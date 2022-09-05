@@ -17,9 +17,11 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
 
 
-### Para rodar o seu smart contract, basta executá-lo na blockchain e pegar o endereço novo e substituir no arquivo: src/constants.jsx
+### Para rodar o seu smart contract
+Basta executá-lo na blockchain e pegar o endereço novo e substituir no arquivo: src/constants.jsx
 
 ### Comando para executar seu smart contract: 
-##npx hardhat run scripts/deploy.js --network rinkeby
+npx hardhat run scripts/deploy.js --network rinkeby
 
-### O arquivo deploy.js e run.js contém as imagens utilizadas. Elas são imagens que selecionei no google somente para fins de estudo e este projeto não tem nenhum tipo de fim lucrativo.
+### O arquivo deploy.js e run.js contém as imagens utilizadas. 
+Elas são imagens que selecionei no google somente para fins de estudo e este projeto não tem nenhum tipo de fim lucrativo.
